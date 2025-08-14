@@ -1,4 +1,4 @@
-// WAP to take 2 numbera as input and print sum
+// WAP to take 2 numbers as input and print sum
 #include <stdio.h>
 int main(){
 	int num1,num2,sum;
@@ -10,3 +10,4 @@ int main(){
 	printf("Sum= %d",sum);
 	return 0;
 }
+
